@@ -1,6 +1,6 @@
-# desperado74
+# AI Application Engineering Portfolio
 
-**AI Application Engineer** building practical, user-facing products with Python, FastAPI, React and AI services.
+Building practical, user-facing products with Python, FastAPI, React and AI services.
 
 I enjoy taking an idea from a rough workflow to a usable web application: defining the user flow, integrating models or APIs, handling data and deployment, and iterating on the details that make a product reliable to try.
 
