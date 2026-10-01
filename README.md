@@ -27,7 +27,7 @@
 
 Agent 工作流、AI 应用工程，以及把真实使用需求转化为可维护、可演示软件的方法。
 
-也在整理 **Learning OS Starter**：用 Markdown 保存 AI 辅助学习的进度、实际作答与交接。目前处于本地预览阶段。
+已发布 [Learning OS Starter](https://github.com/desperado74/learning-os-starter)：用 Markdown 保存 AI 辅助学习的进度、实际作答与交接。当前为采用 MIT 许可的早期版本。
 
 欢迎交流 AI 应用工程、Python 开发及具体实现问题，也愿意了解这些方向的工作机会。
 
@@ -56,6 +56,6 @@ The demo uses shared third-party API quotas, so AI-intensive features may be lim
 
 Agentic workflows, AI application engineering, and ways to turn real user needs into maintainable, demonstrable software.
 
-I’m also preparing **Learning OS Starter**, a Markdown-based approach to recording AI-assisted learning progress, actual answers, and handoffs. It is currently a local preview.
+I’ve also published [Learning OS Starter](https://github.com/desperado74/learning-os-starter), a Markdown-based approach to recording AI-assisted learning progress, actual answers, and handoffs. It is an early release under the MIT License.
 
 Open to conversations and opportunities in AI application engineering, Python development and implementation-oriented roles.
