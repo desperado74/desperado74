@@ -1,61 +1,41 @@
-# AI 应用工程作品集 / AI Application Engineering Portfolio
+# AI 应用与学习工具 / AI Applications & Learning Tools
 
 [中文](#中文) · [English](#english)
 
 ## 中文
 
-用 Python、FastAPI、React 与 AI 服务，把实际问题逐步做成可以使用的应用。
-
-我喜欢从一个初步想法出发，梳理使用流程、接入模型或 API、处理数据和部署，再通过具体改进让作品更容易使用和维护。希望在这里积累能体现实际能力的作品，也结识对这些问题感兴趣的朋友。
+我是中文开发者，喜欢把自己的实际需求做成可使用、可维护的工具。这里记录我的 AI 应用、学习工具与工程实践，希望通过真实作品积累能力，也结识愿意交流实现方法和使用体验的同好。
 
 ### 代表作品
 
-| 项目 | 内容 | 技术栈 |
+| 项目 | 做什么 | 当前状态 |
 | --- | --- | --- |
-| [TOEFL AI Trainer](https://github.com/desperado74/toefl-listen-repeat) · [在线演示](https://toefl-listen-repeat.onrender.com/) | 托福口语与阅读训练：浏览器录音、云端语音评测、AI 反馈、学习记录与回练信号 | Python、FastAPI、React、TypeScript、SQLite、Azure Speech、DeepSeek、Docker |
+| [Learning OS Starter](https://github.com/desperado74/learning-os-starter) | 用自己的 Codex 或 Claude Code，在本地建立课程层级、学习记录与交接流程；包含初始化、通用规则、教材读取和可选 Anki／索引工具 | MIT 完整系统预览版；代码与虚构文件流程已检查，真实双客户端完整学习周期待验证 |
+| [TOEFL AI Trainer](https://github.com/desperado74/toefl-listen-repeat) | 托福口语与阅读训练，包含浏览器录音、语音评测、AI 反馈、学习记录与回练 | 已有实现与部署说明；AI 功能需自行配置第三方服务，当前端到端体验待复测 |
 
-演示使用共享第三方 API 额度，AI 功能可能受到限制。请以项目 README 的配置说明和实际运行结果为准。
+### 我关注的方向
 
-### 关注方向
+- AI 应用：把模型能力接入具体使用流程。
+- 工程实现：Python、FastAPI、React、TypeScript，以及数据处理和部署。
+- 学习系统：保存真实作答和上下文，让暂停后的学习有据可续。
 
-- **AI 应用**：语音评测、LLM 辅助反馈、围绕使用流程设计产品。
-- **全栈交付**：Python、FastAPI、React、TypeScript、SQLite、Docker 与托管部署。
-- **数据与视觉**：数据预处理、PyTorch 实验、OpenCV 与结果分析。
-- **AI 辅助工程**：使用 Codex 和 Claude Code 完成明确范围内的实现、调试、重构与验证。
-
-### 正在探索
-
-Agent 工作流、AI 应用工程，以及把真实使用需求转化为可维护、可演示软件的方法。
-
-已发布 [Learning OS Starter](https://github.com/desperado74/learning-os-starter)：用 Markdown 保存 AI 辅助学习的进度、实际作答与交接。当前为采用 MIT 许可的早期版本。
-
-欢迎交流 AI 应用工程、Python 开发及具体实现问题，也愿意了解这些方向的工作机会。
+项目介绍中文在前、英文在后。欢迎通过对应仓库的 Issues 讨论具体问题、提出建议或分享试用反馈；反馈前请去掉私人材料、作答和账号信息。
 
 ## English
 
-Building practical, user-facing products with Python, FastAPI, React and AI services.
+I’m a Chinese-speaking developer who turns personal needs into usable, maintainable tools. This profile collects my AI applications, learning tools and engineering work. I hope to develop my skills through real projects and meet people who enjoy discussing implementation and user experience.
 
-I enjoy taking an idea from a rough workflow to a usable web application: defining the user flow, integrating models or APIs, handling data and deployment, and iterating on the details that make a product easier to use and maintain. I’m building a portfolio that reflects my actual work and connecting with people interested in similar problems.
+### Featured projects
 
-### Featured project
-
-| Project | What it does | Stack |
+| Project | What it does | Status |
 | --- | --- | --- |
-| [TOEFL AI Trainer](https://github.com/desperado74/toefl-listen-repeat) · [Live demo](https://toefl-listen-repeat.onrender.com/) | Speaking and reading practice with browser recording, cloud speech assessment, LLM feedback, persisted learning history and review signals | Python, FastAPI, React, TypeScript, SQLite, Azure Speech, DeepSeek, Docker |
+| [Learning OS Starter](https://github.com/desperado74/learning-os-starter) | Build a local learning workspace with your own Codex or Claude Code: course hierarchy, records and handoffs, plus initialization, generic rules, material reading and optional Anki/index tools | MIT full-system preview; code and fictional file workflows checked, actual dual-client learning cycles still unverified |
+| [TOEFL AI Trainer](https://github.com/desperado74/toefl-listen-repeat) | Speaking and reading practice with browser recording, speech assessment, AI feedback, learning records and review | Implementation and deployment instructions available; AI features require your own third-party configuration, current end-to-end experience needs retesting |
 
-The demo uses shared third-party API quotas, so AI-intensive features may be limited. Refer to the project README and actual runtime results for configuration and availability.
+### Interests
 
-### Focus
+- AI applications that fit concrete user workflows.
+- Engineering with Python, FastAPI, React and TypeScript, including data handling and deployment.
+- Learning systems that preserve actual answers and context for later resumption.
 
-- **AI applications:** speech evaluation, LLM-assisted feedback, workflow-oriented product design.
-- **Full-stack delivery:** Python, FastAPI, React, TypeScript, SQLite, Docker and hosted deployment.
-- **Data and vision:** data preprocessing, PyTorch experiments, OpenCV and result analysis.
-- **AI-assisted engineering:** using Codex and Claude Code for scoped implementation, debugging, refactoring and verification.
-
-### Currently exploring
-
-Agentic workflows, AI application engineering, and ways to turn real user needs into maintainable, demonstrable software.
-
-I’ve also published [Learning OS Starter](https://github.com/desperado74/learning-os-starter), a Markdown-based approach to recording AI-assisted learning progress, actual answers, and handoffs. It is an early release under the MIT License.
-
-Open to conversations and opportunities in AI application engineering, Python development and implementation-oriented roles.
+Project introductions use Chinese first, followed by English. Please use each repository’s Issues for questions, suggestions and trial feedback, removing private materials, answers and account details before posting.
